@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 env:
-  INSTANCE: Writerside/hi
-  ARTIFACT: webHelpHI2-all.zip
+  INSTANCE: Writerside/a
+  ARTIFACT: webHelpA2-all.zip
   DOCKER_VERSION: 232.10165.1
 
 jobs:
