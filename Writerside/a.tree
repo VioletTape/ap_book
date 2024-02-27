@@ -3,13 +3,13 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="a"
-                 name="AnalyisiPatterns"
-                 start-page="Обложка.md">
+                 name="Analysis Patterns"
+                 start-page="Cover.md">
 
-    <toc-element topic="Обложка.md"/>
-    <toc-element topic="Предисловия.md">
-        <toc-element topic="Ральф-Джонс.md"/>
-        <toc-element topic="Уорд-Каннингем.md"/>
+    <toc-element topic="Cover.md"/>
+    <toc-element topic="Forewords.md">
+        <toc-element topic="Ralf-Johnson.md"/>
+        <toc-element topic="Ward-Cunningham.md"/>
     </toc-element>
     <toc-element topic="starter-topic.md"/>
 </instance-profile>
