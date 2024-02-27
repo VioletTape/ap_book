@@ -5,6 +5,10 @@ on:
     branches: ["main"]
   workflow_dispatch:
 
+permissions:
+  id-token: write
+  pages: write
+
 env:
   INSTANCE: Writerside/a
   ARTIFACT: webHelpA2-all.zip
