@@ -12,6 +12,8 @@
         <toc-element topic="Ralf-Johnson.md"/>
         <toc-element topic="Ward-Cunningham.md"/>
     </toc-element>
-    <toc-element topic="Preface.md"/>
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Preface.md">
+        <toc-element topic="Structure-of-the-book.md"/>
+        <toc-element topic="How-to-read.md"/>
+    </toc-element>
 </instance-profile>
