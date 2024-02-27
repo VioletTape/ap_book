@@ -4,7 +4,12 @@
 
 <instance-profile id="a"
                  name="AnalyisiPatterns"
-                 start-page="starter-topic.md">
+                 start-page="Обложка.md">
 
+    <toc-element topic="Обложка.md"/>
+    <toc-element topic="Предисловия.md">
+        <toc-element topic="Ральф-Джонс.md"/>
+        <toc-element topic="Уорд-Каннингем.md"/>
+    </toc-element>
     <toc-element topic="starter-topic.md"/>
 </instance-profile>
