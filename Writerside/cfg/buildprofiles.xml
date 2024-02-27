@@ -2,8 +2,8 @@
                xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
     <variables>
         <primary-color>aqua</primary-color>
-        <custom-favicons>favicon.png</custom-favicons>
-        <header-logo>favicon.png</header-logo>
+<!--        <custom-favicons>favicons.png</custom-favicons>-->
+        <header-logo>favicons.png</header-logo>
 <!--        <product-web-url>https://help.example.com</product-web-url>-->
 <!--        <download-title>Get Awesome App</download-title>-->
 <!--        <download-page>https://example.com</download-page>-->
