@@ -14,6 +14,40 @@
     </toc-element>
     <toc-element topic="Preface.md">
         <toc-element topic="Structure-of-the-book.md"/>
-        <toc-element topic="How-to-read.md"/>
+        <toc-element topic="How-to-read.md">
+        </toc-element>
+        <toc-element topic="Who-should-read.md"/>
+        <toc-element topic="living-book.md"/>
+        <toc-element topic="Acknowledgments.md"/>
+        <toc-element topic="References.md"/>
     </toc-element>
+    <toc-element topic="Introduction.md">
+        <toc-element topic="conceptual-models.md"/>
+        <toc-element topic="world-of-patterns.md"/>
+        <toc-element topic="patterns-of-this-book.md"/>
+        <toc-element topic="cm-and-reenginiring.md"/>
+        <toc-element topic="patterns-and-frameworks.md"/>
+        <toc-element topic="using-patterns.md"/>
+        <toc-element topic="references-1.md"/>
+    </toc-element>
+    <toc-element topic="part1-analysis-patterns.md">
+        <toc-element topic="2.accountability.md"/>
+        <toc-element topic="3.observations-measurements.md"/>
+        <toc-element topic="4.observations-for-corp-finance.md"/>
+        <toc-element topic="5.referring-to-objects.md"/>
+        <toc-element topic="6.inventory-accounting.md"/>
+        <toc-element topic="7.using-accounting-models.md"/>
+        <toc-element topic="8.planning.md"/>
+        <toc-element topic="9.traging.md"/>
+        <toc-element topic="10.derrivative-contracts.md"/>
+        <toc-element topic="11.trading-packages.md"/>
+    </toc-element>
+    <toc-element topic="part2.support-patterns.md">
+        <toc-element topic="12.layered-arch-for-cs.md"/>
+        <toc-element topic="13.application-facade.md"/>
+        <toc-element topic="14.Patterns-for-type-model-design-templates.md"/>
+        <toc-element topic="15.association-patterns.md"/>
+        <toc-element topic="16.afterwords.md"/>
+    </toc-element>
+    <toc-element topic="part3.appendix.md"/>
 </instance-profile>
