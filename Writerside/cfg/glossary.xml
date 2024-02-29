@@ -3,5 +3,7 @@
 <terms>
     <term name="ОО">Объектно ориентированный</term>
     <term name="BPR">Business Process Reengineering</term>
+    <term name="OOPSLA">Object-Oriented Programming, Systems, Languages &amp; Applications</term>
+    <term name="PLoP">Pattern Language of Programming</term>
 <!--    <term name="tooltip">Tooltips show a definition when a user hovers over a term.</term>-->
 </terms>

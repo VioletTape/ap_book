@@ -1,14 +1,14 @@
 # Ссылки
 
-1. Alexander, C., S. Ishikawa, M. Silverstein, M. Jacobson, I. Fiksdahl-King, and S. Angel. A Pattern Language. New York: Oxford University Press, 1977.
+1. Alexander, C., S. Ishikawa, M. Silverstein, M. Jacobson, I. Fiksdahl-King, and S. Angel. A Pattern Language. New York: Oxford University Press, 1977. {id="a1"}
 
-2. Cairns, T., A. Casey, M. Fowler, M. Thursz, and H. Timimi. The Cosmos Clinical Process Model. National Health Service, Information Management Centre, 15 Frederick Rd, Birmingham, B15 1JD, England. Report ECBS20A & ECBS20B <http://www.sm.ic.ac.uk/medicine/cpm>, 1992.
+2. Cairns, T., A. Casey, M. Fowler, M. Thursz, and H. Timimi. The Cosmos Clinical Process Model. National Health Service, Information Management Centre, 15 Frederick Rd, Birmingham, B15 1JD, England. Report ECBS20A & ECBS20B <http://www.sm.ic.ac.uk/medicine/cpm>, 1992. {id="a2"}
 
-3. Coplien, J.O. Advanced C++ Programming Styles and Idioms. Reading, MA: Addison-Wesley, 1992.
+3. Coplien, J.O. Advanced C++ Programming Styles and Idioms. Reading, MA: Addison-Wesley, 1992. {id="a3"}
 
-4. Coplien, J.O. and D.C. Schmidt. Pattern Languages of Program Design. Reading, MA: Addison-Wesley, 1995.
+4. Coplien, J.O. and D.C. Schmidt. Pattern Languages of Program Design. Reading, MA: Addison-Wesley, 1995. {id="a4"}
 
-5. Coplien, J.O. “A Generative Development-Process Pattern Language,” In Pattern Languages of Program Design. J.O. Coplien and D.C. Schmidt, ed. Reading, MA: Addison-Wesley, 1995, pp. 183–237.
+5. Coplien, J.O. “A Generative Development-Process Pattern Language,” In Pattern Languages of Program Design. J.O. Coplien and D.C. Schmidt, ed. Reading, MA: Addison-Wesley, 1995, pp. 183–237. {id="a5"}
 
 6. Gamma, E., R. Helm, R. Johnson, and J. Vlissides. Design Patterns: Elements of Reusable Object-Oriented Software. Reading, MA: Addison-Wesley, 1995.
 
