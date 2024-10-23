@@ -49,5 +49,8 @@
         <toc-element topic="15.association-patterns.md"/>
         <toc-element topic="16.afterwords.md"/>
     </toc-element>
-    <toc-element topic="part3.appendix.md"/>
+    <toc-element topic="part3.appendix.md">
+        <toc-element topic="Techniques.md"/>
+        <toc-element topic="table-patterns.md"/>
+    </toc-element>
 </instance-profile>
