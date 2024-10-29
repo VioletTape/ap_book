@@ -52,5 +52,6 @@
     <toc-element topic="part3.appendix.md">
         <toc-element topic="Techniques.md"/>
         <toc-element topic="table-patterns.md"/>
+        <toc-element topic="c-diagrams.md"/>
     </toc-element>
 </instance-profile>
