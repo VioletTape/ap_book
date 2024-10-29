@@ -1,3 +1,5 @@
 # В. Таблица паттернов
 
-Start typing here...
+<secondary-label ref="wip"/>
+
+Не то, что бы было что-то полезное тут.
