@@ -11,6 +11,7 @@
     <toc-element topic="Forewords.md">
         <toc-element topic="Ralf-Johnson.md"/>
         <toc-element topic="Ward-Cunningham.md"/>
+        <toc-element topic="from-me.md"/>
     </toc-element>
     <toc-element topic="Preface.md">
         <toc-element topic="Structure-of-the-book.md"/>
