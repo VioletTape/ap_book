@@ -13,5 +13,6 @@
     <term name="tenor">срок действия контракта или же срок поставки товара</term>
     <term name="Rumbaugh">James Rumbaugh</term>
     <term name="GP">Врач общей практики</term>
+    <term name="party">шаблон Группа (глава 2.1)</term>
 <!--    <term name="tooltip">Tooltips show a definition when a user hovers over a term.</term>-->
 </terms>
