@@ -1,11 +1,11 @@
 ﻿namespace Chapter2._2_2_Hierarchy.NoRules;
 
-public class OrgUnit {
+public abstract class OrgUnit {
     private List<OrgUnit> childs = new List<OrgUnit>();
 
     public string Name { get; init; }
 
-    public OrgUnit(string name) {
+    protected OrgUnit(string name) {
         Name = name;
     }
 
