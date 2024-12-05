@@ -10,4 +10,24 @@
         <description>Created after removal of "От автора" from Analysis Patterns</description>
         <accepts>from-author.html</accepts>
     </rule>
+    <rule id="1997a51e">
+        <description>Created after removal of "2. Ответственность" from Analysis Patterns</description>
+        <accepts>2.accountability_2.html</accepts>
+    </rule>
+    <rule id="2ababfd0">
+        <description>Created after removal of "2.accountability_" from Analysis Patterns</description>
+        <accepts>2-accountability_.html</accepts>
+    </rule>
+    <rule id="4071f6a">
+        <description>Created after removal of "test" from Analysis Patterns</description>
+        <accepts>test.html</accepts>
+    </rule>
+    <rule id="5175403">
+        <description>Created after removal of "test 2" from Analysis Patterns</description>
+        <accepts>test2.html</accepts>
+    </rule>
+    <rule id="59c5de1d">
+        <description>Created after removal of "test 3" from Analysis Patterns</description>
+        <accepts>test3.html</accepts>
+    </rule>
 </rules>
