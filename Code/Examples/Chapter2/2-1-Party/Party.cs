@@ -32,10 +32,12 @@
         // ...
     }
 
+    // наследование
     public class Organization : Party {
         // ...
     }
 
+    // наследование
     public class Person : Party {
         // ...
     }

@@ -1,9 +1,8 @@
 ﻿using FluentAssertions;
 using NUnit.Framework;
 
-namespace Chapter2._2_2_Hierarchy.InternalRules2;
+namespace Chapter2._2_2_Hierarchy.InternalRules;
 
-// простые тесты для иллюстративности
 public class Test {
     [Test]
     public void CanAddDepartment() {
@@ -11,7 +10,7 @@ public class Test {
         var department = new Department("b");
 
         // act
-        OrgUnit.Add(organization,department);
+        organization.Add(department);
 
         // assert
         organization.SubUnits.Should().Contain(department);
@@ -23,7 +22,7 @@ public class Test {
         var division = new Division("c");
 
         // act
-        OrgUnit.Add(department,division);
+        department.Add(division);
 
         // assert
         department.SubUnits.Should().Contain(division);
@@ -35,8 +34,8 @@ public class Test {
         var division2 = new Division("d");
 
         // act
-        OrgUnit.Add(division1,division2);
-
+        division1.Add(division2);
+        
         // assert
         division1.SubUnits.Should().NotContain(division2);
     }

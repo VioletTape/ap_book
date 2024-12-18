@@ -5,6 +5,8 @@ public abstract class OrgUnit {
 
     public string Name { get; init; }
 
+    public List<OrgUnit> SubUnits => [..childs];
+
     public OrgUnit(string name) {
         Name = name;
     }
