@@ -21,8 +21,4 @@
     <PackageReference Include="NUnit3TestAdapter" Version="4.6.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="2-4-Accountability\" />
-  </ItemGroup>
-
 </Project>

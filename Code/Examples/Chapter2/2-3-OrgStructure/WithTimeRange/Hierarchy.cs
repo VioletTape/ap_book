@@ -40,6 +40,7 @@ public class Division : OrgUnit {
     }
 }
 
+// Шаблон для определения типа и правил для организационной структуры
 public abstract class OrgStructure {
 
     public Period EffectivePeriod { get; init; }
@@ -51,10 +52,14 @@ public abstract class OrgStructure {
 
 
     public void Close() {
-        EffectivePeriod.Close()
+        EffectivePeriod.Close();
     }
 }
 
+/// <summary>
+/// Конкретная реализация типа и правил для организационной структуры.
+/// В данном случае, строгая иерархия отделов. 
+/// </summary>
 public class OrgStructureStrict : OrgStructure {
     public override bool CanAdd(OrgUnit parent, OrgUnit child) {
         if (parent.GetType() == typeof(Organization)
@@ -71,6 +76,10 @@ public class OrgStructureStrict : OrgStructure {
     }
 }
 
+/// <summary>
+/// Конкретная реализация типа и правил для организационной структуры.
+/// В данном случае, свободная иерархия отделов. 
+/// </summary>
 public class OrgStructureFlexible : OrgStructure {
     public override bool CanAdd(OrgUnit parent, OrgUnit child) {
         if (parent.GetType() == typeof(Organization)
